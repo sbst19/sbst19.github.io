@@ -12,6 +12,18 @@
     
     <item>
       <title>SBST 2019</title>
+      <link>/keynotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/keynotes/</guid>
+      <description> Keynote Speakers Shiva Nejati SnT Center, University of Luxembourg, Luxembourg
+    Shin Yoo Korea Advanced Institute of Science and Technology, Republic of Korea
+      Tutorial Speaker Nadia Alshahwan Facebook
+        </description>
+    </item>
+    
+    <item>
+      <title>SBST 2019</title>
       <link>/organisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -27,9 +39,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/program/</guid>
-      <description> Keynote Speakers Shiva Nejati SnT Center, University of Luxembourg, Luxembourg
-    Shin Yoo Korea Advanced Institute of Science and Technology, Republic of Korea
-      Workshop Program To be announced.     </description>
+      <description>Workshop Program  08:00. Registration.
+   09:00. Opening.
+   09:30. Keynote 1. Testing Cyber-Physical Systems via Evolutionary Algorithms and Machine Learning.
+Shiva Nejati
+SnT Center, University of Luxembourg
+   10:30. Coffee break.
+   11:00. One-Size-Fits-None? Improving Test Generation Using Context-Optimized Fitness Functions.
+Gregory Gay
+University of South Carolina
+   11:15. The Cloudification Perspectives of Search-based Software Testing.
+Diego Martin Borreguero, Sebastiano Panichella</description>
     </item>
     
     <item>
